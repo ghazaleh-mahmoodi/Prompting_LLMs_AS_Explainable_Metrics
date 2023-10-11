@@ -1,0 +1,7 @@
+We simplify define score function for summerization.
+Model Name : psmathur/orca_mini_v3_7b
+Approach : zero shot.
+define approach to compare main document with summerize document.
+In this prompt, indicators that indicate a good summary have been introduced
+For example, if the main idea of the text is mentioned in the summary document, it shows the strength of the written summary
+​Look up details
